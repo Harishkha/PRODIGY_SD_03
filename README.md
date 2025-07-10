@@ -19,3 +19,13 @@ Contact added successfully!
 Contact updated successfully!
 Contact deleted successfully!
 
+# 📌 Features:
+
+• Add a new contact by entering name, phone number, and email address  
+• View all saved contacts in a neat list  
+• Edit existing contact details (name, phone, email)  
+• Delete unwanted or old contacts  
+• Contact data is saved in a JSON file for permanent storage  
+• Automatically loads existing contacts when program starts  
+• User-friendly command-line interface with numbered menu  
+• Input validation for safe editing and deletion
